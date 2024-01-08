@@ -1,0 +1,191 @@
+[
+    {
+        "category_id": 1,
+        "description": "Синее худи с логотипом СФУ",
+        "id": 7,
+        "image": "products.images/00211881_TeqN8YA.png",
+        "name": "Синее худи с логотипом СФУ",
+        "price": 5000,
+        "quantity": 20
+    },
+    {
+        "category_id": 1,
+        "description": "оранжевая футболка с логотипом СФУ",
+        "id": 8,
+        "image": "products.images/футболка_1_01ydEww.png",
+        "name": "оранжевая футболка с логотипом СФУ",
+        "price": 500,
+        "quantity": 30
+    },
+    {
+        "category_id": 1,
+        "description": "серая худи с логотипом сфу",
+        "id": 9,
+        "image": "products.images/худи_1_NEqaqkc.png",
+        "name": "серая худи с логотипом сфу",
+        "price": 2000,
+        "quantity": 5
+    },
+    {
+        "category_id": 1,
+        "description": "белая ветровка с логотипом сфу",
+        "id": 10,
+        "image": "products.images/чистый-белый-фронт-модель-макета-жилеты-смертника-и-вид-сзади-задний-203_2054ZoS.png",
+        "name": "белая ветровка с логотипом сфу",
+        "price": 1500,
+        "quantity": 20
+    },
+    {
+        "category_id": 1,
+        "description": "чёрная футболка",
+        "id": 11,
+        "image": "products.images/1777514090_lxnGfmQ.jpg",
+        "name": "чёрная футболка",
+        "price": 300,
+        "quantity": 14
+    },
+    {
+        "category_id": 1,
+        "description": "чёрная кофта",
+        "id": 12,
+        "image": "products.images/H96ccb1833e3a4ae79c6dba7958ff1536i.webp",
+        "name": "чёрная кофта",
+        "price": 500,
+        "quantity": 15
+    },
+    {
+        "category_id": 5,
+        "description": "белая кружка",
+        "id": 13,
+        "image": "products.images/kandinsky-download-1686212571771.png",
+        "name": "белая кружка",
+        "price": 400,
+        "quantity": 15
+    },
+    {
+        "category_id": 5,
+        "description": "чёрная кружка",
+        "id": 14,
+        "image": "products.images/kandinsky-download-1686212694195.png",
+        "name": "чёрная кружка",
+        "price": 250,
+        "quantity": 16
+    },
+    {
+        "category_id": 1,
+        "description": "белая футболка с красивыми персидскими узорами",
+        "id": 15,
+        "image": "products.images/kandinsky-download-1686212977899.png",
+        "name": "белая футболка с узорами",
+        "price": 800,
+        "quantity": 19
+    },
+    {
+        "category_id": 1,
+        "description": "белая кофта с узорами",
+        "id": 16,
+        "image": "products.images/kandinsky-download-1686213204067.png",
+        "name": "белая кофта с узорами",
+        "price": 600,
+        "quantity": 17
+    },
+    {
+        "category_id": 1,
+        "description": "чёрная кофта с узорами",
+        "id": 17,
+        "image": "products.images/kandinsky-download-1686212988655.png",
+        "name": "чёрная кофта с узорами",
+        "price": 600,
+        "quantity": 19
+    },
+    {
+        "category_id": 1,
+        "description": "белая стильная ветровка",
+        "id": 18,
+        "image": "products.images/kandinsky-download-1686213529179.png",
+        "name": "белая стильная ветровка",
+        "price": 600,
+        "quantity": 20
+    },
+    {
+        "category_id": 5,
+        "description": "крутая белка в тёмных очках и белой курточке",
+        "id": 19,
+        "image": "products.images/1.png",
+        "name": "Мягкая игрушка белка",
+        "price": 500,
+        "quantity": 10
+    },
+    {
+        "category_id": 5,
+        "description": "очаровательная мягкая игрушка белка",
+        "id": 20,
+        "image": "products.images/2.png",
+        "name": "Мягкая игрушка белка",
+        "price": 400,
+        "quantity": 15
+    },
+    {
+        "category_id": 5,
+        "description": "Мягкая игрушка белка",
+        "id": 21,
+        "image": "products.images/3.png",
+        "name": "Мягкая игрушка белка_1",
+        "price": 300,
+        "quantity": 15
+    },
+    {
+        "category_id": 5,
+        "description": "Мягкая игрушка белка",
+        "id": 22,
+        "image": "products.images/4.png",
+        "name": "Мягкая игрушка белка_2",
+        "price": 300,
+        "quantity": 15
+    },
+    {
+        "category_id": 5,
+        "description": "Мягкая игрушка белка",
+        "id": 23,
+        "image": "products.images/5.png",
+        "name": "Мягкая игрушка белка_3",
+        "price": 350,
+        "quantity": 21
+    },
+    {
+        "category_id": 4,
+        "description": "Брелок символ СФУ",
+        "id": 24,
+        "image": "products.images/1_idtdwrP.png",
+        "name": "Брелок символ СФУ",
+        "price": 100,
+        "quantity": 16
+    },
+    {
+        "category_id": 4,
+        "description": "Брелок символ СФУ",
+        "id": 25,
+        "image": "products.images/2_0SdVerR.png",
+        "name": "Брелок символ СФУ_2",
+        "price": 100,
+        "quantity": 41
+    },
+    {
+        "category_id": 4,
+        "description": "Брелок символ СФУ Белка",
+        "id": 26,
+        "image": "products.images/3_X3W0qhO.png",
+        "name": "Брелок символ СФУ",
+        "price": 150,
+        "quantity": 11
+    },
+    {
+        "category_id": 4,
+        "description": "Брелок символ СФУ логотип",
+        "id": 27,
+        "image": "products.images/4_GaGVvzz.png",
+        "name": "Брелок символ СФУ",
+        "price": 110,
+        "quantity": 15
+    }
+]
